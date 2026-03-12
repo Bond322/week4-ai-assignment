@@ -35,10 +35,16 @@ It describes:
 What information will be stored
 What type that information is (text, number, date…)
 What rules it must follow
-
 example:
 First Name → text
 Last Name → text
 Date of Birth → date
 Phone Number → numbers only
 Reason for visit → text
+
+## Explain the difference between
+📋 A List
+A list is a collection of items stored in a specific order. You access each item by its position (0, 1, 2...).
+
+📖 A Dictionary
+A dictionary is a collection of items stored with a label. You access each item by its key (a name you give it).
